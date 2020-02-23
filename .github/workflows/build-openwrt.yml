@@ -1,5 +1,4 @@
-name: Build OpenWrt
-
+name: neo2
 on:
   release:
     types: [published]
